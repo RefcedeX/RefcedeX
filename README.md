@@ -24,3 +24,9 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 <table> <tr> <td align="center" width="50"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="28" height="28"/></td> <td width="160">Microsoft Excel</td> <td>█████████░ 85%</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftword.svg" width="28" height="28"/></td> <td>Microsoft Word</td> <td>████████░░ 80%</td> </tr> <tr> <td align="center" style="font-size:22px">🎬</td> <td>Adobe Premiere Pro</td> <td>█████░░░░░ 50%</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="28" height="28"/></td> <td>HTML5</td> <td>████░░░░░░ 35%</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css.svg" width="28" height="28"/></td> <td>CSS3</td> <td>████░░░░░░ 35%</td> </tr> </table>
 
 ---
+
+### Tech Stack
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+
