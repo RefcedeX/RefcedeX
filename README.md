@@ -10,8 +10,8 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 - 🎓 Kuliah **Sistem Informasi**, Universitas Pamulang, Kota Serang
 - 💼 Pengalaman kerja sebagai **Admin Online** di Ayam Maju Jaya
 - 🌱 Sedang belajar: **Web Development**
-- 🛠️ Kuat di **Microsoft Excel** (SUM, IF, VLOOKUP, HLOOKUP) & **Microsoft Word**
-- 🎬 Bisa edit video pakai **Adobe Premiere** (cutting, coloring, transisi)
+- 🛠️ Bisa menggunakan software **Microsoft Excel** (SUM, IF, VLOOKUP, HLOOKUP) & **Microsoft Word**
+- 🎬 Kuat di Editing video pakai **Adobe Premiere** (cutting, coloring, transisi)
 - 🗣️ Bahasa Indonesia & Bahasa Inggris
 - 👥 Pernah jadi Ketua Kelas — terbiasa memimpin & mengatur tim
 - 📫 Hubungi saya: ahmadrijalmaulidina@gmail.com
