@@ -21,7 +21,7 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 ### 🛠️ Skills
 
 ### 🎥 Video Editing & Tools
-![Adobe Premiere Pro](https://progress-bar.dev/75/?title=Adobe_Premiere&width=300&color=9900ff)
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 ---
 
