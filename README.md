@@ -13,7 +13,6 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 - 🛠️ Bisa menggunakan software **Microsoft Excel** (SUM, IF, VLOOKUP, HLOOKUP) & **Microsoft Word**
 - 🎬 Kuat di Editing video pakai **Adobe Premiere** (cutting, coloring, transisi)
 - 🗣️ Bahasa Indonesia & Bahasa Inggris
-- 👥 Pernah jadi Ketua Kelas — terbiasa memimpin & mengatur tim
 - 📫 Hubungi saya: ahmadrijalmaulidina@gmail.com
 - 🔗 LinkedIn: [ahmad-rijal-maulidina](https://www.linkedin.com/in/ahmadrijal-maulidina-733a6b303)
 
