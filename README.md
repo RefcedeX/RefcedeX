@@ -19,9 +19,10 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 
 ### 🛠️ Skills
 
-Video Editing & Tools
+### Video Editing & Tools
 [![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
 
+---
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,dart)](https://skillicons.dev)
