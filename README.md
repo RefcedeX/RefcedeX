@@ -20,8 +20,16 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) <label>JavaScript (80%) </label> <progress value="80" max="100"></progress>
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
+### 📊 GitHub Stats
 
+<p align="left">
+  <!-- Kartu Statistik Umum -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RefcedeX&show_icons=true&theme=radium" alt="GitHub Stats" />
+  
+  <!-- Kartu Persentase Bahasa Pemrograman (Ini adalah bentuk "Skill Bar" yang benar) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefcedeX&layout=compact&theme=radium" alt="Top Languages" />
+</p>
 
 ---
 
