@@ -21,7 +21,12 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 ### 🛠️ Skills
 
 ### 🎥 Video Editing & Tools
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
+
+### 📝 Documentation Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
+</p>
 
 ---
 
