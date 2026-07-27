@@ -4,7 +4,7 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 
 ### 📊 RefcedeX GitHub Stats
 
-![GitHub RefcedeX](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RefcedeX&theme=github_dark)
+![GitHub RefcedeX](https://github-profile-summary-cards.vercel.app/api/cards/RefcedeX?username=RefcedeX&theme=github_dark)
 
 ### About Me
 - 🎓 Kuliah **Sistem Informasi**, Universitas Pamulang, Kota Serang
