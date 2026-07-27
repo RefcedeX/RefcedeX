@@ -32,6 +32,6 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 <path d="M222.85 60.6125L127.325 28V228L207.412 183.7L222.85 60.6125Z" fill="#B52E31"/>
 <path d="M127.469 51.375L69.4688 180.375L91.1125 179.937L102.8 150.788H154.675L167.375 180.163L188.012 180.6L127.469 51.375ZM127.612 92.7875L147.237 133.769H110.5L127.669 92.7875H127.612Z" fill="white"/>
 </svg>
-![JavaScript](https://shields.io)
+![JavaScript][(https://shields.io](https://github.com/tandpfun/skill-icons/raw/main/icons/Adonis.svg)
 ![Git](https://shields.io)
 
