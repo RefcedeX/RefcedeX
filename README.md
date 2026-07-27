@@ -21,10 +21,5 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 
 ### 🛠️ Skills
 
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![Premiere](https://img.shields.io/badge/-Adobe%20Premiere-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+<table> <tr> <td align="center" width="50"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" height="32"/></td> <td width="150">Microsoft Excel</td> <td><img src="https://progress-bar.dev/85/?scale=100&width=220&color=217346&suffix=%25"/></td> </tr> <tr> <td align="center"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="32" height="32"/></td> <td>Microsoft Word</td> <td><img src="https://progress-bar.dev/80/?scale=100&width=220&color=2B579A&suffix=%25"/></td> </tr> <tr> <td align="center"><img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="32" height="32"/></td> <td>Adobe Premiere Pro</td> <td><img src="https://progress-bar.dev/50/?scale=100&width=220&color=9999FF&suffix=%25"/></td> </tr> <tr> <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32"/></td> <td>HTML5</td> <td><img src="https://progress-bar.dev/35/?scale=100&width=220&color=E34F26&suffix=%25"/></td> </tr> <tr> <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="32" height="32"/></td> <td>CSS3</td> <td><img src="https://progress-bar.dev/35/?scale=100&width=220&color=1572B6&suffix=%25"/></td> </tr> </table>
 ---
