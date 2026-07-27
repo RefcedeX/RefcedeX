@@ -2,7 +2,7 @@
 
 Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berkarir di bidang **IT & Admin**, dan sedang membangun jalan ke web development 🚀
 
-### 📊 GitHub Stats
+### 📊 RefcedeX GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RefcedeX&theme=github_dark)
 
