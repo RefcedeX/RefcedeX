@@ -2,6 +2,11 @@
 
 Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berkarir di bidang **IT & Admin**, dan sedang membangun jalan ke web development 🚀
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RefcedeX&theme=github_dark)
+
+### About Me
 - 🎓 Kuliah **Sistem Informasi**, Universitas Pamulang, Kota Serang
 - 💼 Pengalaman kerja sebagai **Admin Online** di Ayam Maju Jaya
 - 🌱 Sedang belajar: **Web Development**
@@ -23,7 +28,3 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RefcedeX&theme=github_dark)
