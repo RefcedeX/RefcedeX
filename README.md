@@ -23,11 +23,6 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 ### 🎥 Video Editing & Tools
 ![Adobe Premiere Pro](https://progress-bar.dev/75/?title=Adobe_Premiere&width=300&color=9900ff)
 
-### 🗣️ Languages
-![Jawa Serang](https://progress-bar.dev/95/?title=Jawa_Serang&width=300&color=2ecc71)
-![English](https://progress-bar.dev/60/?title=English&width=300)
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
-
 ---
 
 ### Tech Stack
