@@ -13,7 +13,7 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 - 🎬 Kuat di Editing video pakai **Adobe Premiere** (cutting, coloring, transisi)
 - 🗣️ Bahasa Indonesia & Bahasa Inggris
 - 📫 Hubungi saya: ahmadrijalmaulidina@gmail.com
-- 🔗 LinkedIn: [ahmad-rijal-maulidina](https://www.linkedin.com/in/ahmadrijal-maulidina-733a6b303)
+- 🔗 LinkedIn: [ahmad-rijal-maulidina](https://www.linkedin.com/in/Ahmad-Rijal-Maulidina-733a6b303)
 
 ---
 
