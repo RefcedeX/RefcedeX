@@ -21,7 +21,9 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) <label>JavaScript (80%)</label>
+<progress value="80" max="100"></progress>
+
 
 ---
 
