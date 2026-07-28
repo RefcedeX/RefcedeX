@@ -9,7 +9,6 @@ Mahasiswa Sistem Informasi @ Universitas Pamulang — lagi cari kesempatan berka
 ### About Me
 - 🎓 Kuliah **Sistem Informasi**, Universitas Pamulang, Kota Serang
 - 🌱 Sedang belajar: **Web Development**,**Android App Development**
-- 🛠️ Bisa menggunakan software **Microsoft Excel** (SUM, IF, VLOOKUP, HLOOKUP) & **Microsoft Word**
 - 🎬 Kuat di Editing video pakai **Adobe Premiere** (cutting, coloring, transisi)
 - 🗣️ Bahasa Indonesia & Bahasa Inggris
 - 📫 Hubungi saya: ahmadrijalmaulidina@gmail.com
